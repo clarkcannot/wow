@@ -1,0 +1,33 @@
+#birthdayCard {
+  background: pink;
+  color: #111111;
+  width: 25%;
+  min-width: 300px;
+  border: 8px solid #E75480;
+  border-left: 10px solid #AA336A;
+  border-right: 10px solid #AA336A;
+  margin: 10px;
+  padding: 20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* full height of viewport */
+    margin: 0;
+    background-color: white;
+  }
+
+.TextColor {
+  color: #CC0000;
+}
+
+.signature {
+  text-align: right;
+}
+
+strong {
+  font-size: large;
+  color: #CC0000;
+}
